@@ -2,7 +2,7 @@
 
 This organization serves as the central hub for our upcoming **Graduation Thesis**. We created this workspace to manage our source code, documentation, and collaborate effectively throughout our research and development journey. 
 
-Currently, we are in the brainstorming phase and actively exploring various fields to finalize our thesis topic. Stay tuned for exciting updates as we embark on this academic adventure!
+Currently, we are in the brainstorming phase and actively exploring various fields to finalize our thesis topic. Stay tuned for exciting updates as we embark on this academic adventure! 
 
 ---
 
