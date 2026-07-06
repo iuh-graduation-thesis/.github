@@ -1,3 +1,11 @@
+# 📌 Project Rules
+
+*   Only add new content; do not remove any existing content in this README.
+*   Important information must be placed at the top of the document for easier tracking.
+*   Project naming convention: **[Thesis Topic] + [service name] + service**.
+*   There is no official thesis topic yet, so keep the project name temporary until the topic is finalized.
+*   Once the official thesis topic is confirmed, the project will be renamed according to the convention above.
+
 # 🎓 Our Graduation Thesis Workspace!
 
 This organization serves as the central hub for our upcoming **Graduation Thesis**. We created this workspace to manage our source code, documentation, and collaborate effectively throughout our research and development journey. 
